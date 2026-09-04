@@ -1,6 +1,6 @@
-# blue-team-checks
+# Security Sripts
 
-A grab-bag of scripts for blue team / defensive security work — checks you can run against your own Active Directory or environment to surface misconfigurations before someone else finds them.
+A collection of scripts for blue team / defensive security work, checks you can run against your own environment to identify misconfigurations before someone else finds them.
 ## Intended audience
 
 Most of these are written for **blue teams / defenders** auditing their own environment — finding misconfigurations so you can fix them, not exploit them. Check each script's own header/section below for its specific intent; a few may be general-purpose and have nothing to do with security at all.
