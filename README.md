@@ -1,6 +1,6 @@
 # Security Sripts
 
-A collection of scripts for blue team / defensive security work, checks you can run against your own environment to identify misconfigurations before someone else finds them.
+A collection of scripts for security work that can be used to identify misconfigurations in your own environment before someone else does.
 
 ***I typically build these out in a private repository while I test them, once I feel they are complete enough, I'll move them here.***
 ## Intended audience
