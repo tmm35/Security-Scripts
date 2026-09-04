@@ -18,5 +18,5 @@ Anything that touches Active Directory or a live network should only be run agai
 | Script | Purpose |
 |---|---|
 | `find-kerberoastable-users.ps1` | Enumerates accounts vulnerable to Kerberoasting (SPN set, weak/old passwords, privileged group membership) |
-| `find-write-delegation.ps1` | Enumerates dangerous ACL/delegation misconfigs (`GenericWrite`, `WriteDACL`, `WriteOwner`, unconstrained/constrained delegation) |
+| `find-write-delegation.ps1` | Enumerates dangerous misconfigs (`GenericWrite`, `WriteDACL`, `WriteOwner`, etc) |
 
