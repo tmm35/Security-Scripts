@@ -2,7 +2,7 @@
 
 A collection of scripts for blue team / defensive security work, checks you can run against your own environment to identify misconfigurations before someone else finds them.
 
-I typically build these out in a private repository while I test them, once I feel they are complete enough, I'll move them here.
+*I typically build these out in a private repository while I test them, once I feel they are complete enough, I'll move them here.*
 ## Intended audience
 
 Most of these are written for **blue teams / defenders** auditing their own environment, finding misconfigurations so you can fix them, not exploit them. Check each script's own header/section below for its specific intent; a few may be general-purpose and have nothing to do with security at all.
