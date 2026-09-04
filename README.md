@@ -5,7 +5,9 @@ A collection of scripts for blue team / defensive security work, checks you can 
 I typically build these out in a private repository while I test them, once I feel they are complete enough, I'll move them here.
 ## Intended audience
 
-Most of these are written for **blue teams / defenders** auditing their own environment — finding misconfigurations so you can fix them, not exploit them. Check each script's own header/section below for its specific intent; a few may be general-purpose and have nothing to do with security at all.
+Most of these are written for **blue teams / defenders** auditing their own environment, finding misconfigurations so you can fix them, not exploit them. Check each script's own header/section below for its specific intent; a few may be general-purpose and have nothing to do with security at all.
+
+I try to ensure each script has a usage output and some comments describing what the general purpose is at the top, but I may accidentally leave that out. If I do, sorry about that (you can ask AI what it is doing).
 
 ## Use responsibly
 
